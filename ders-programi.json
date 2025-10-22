@@ -1,0 +1,24 @@
+{
+  "dersProgrami": [
+    {
+      "gun": "Pazartesi",
+      "dersler": ["Biyoloji", "Biyoloji", "Edebiyat", "Edebiyat", "Bilişim ve Teknoloji", "Temel Dinî Bilgiler", "Kimya", "Kimya"]
+    },
+    {
+      "gun": "Salı",
+      "dersler": ["Edebiyat", "Edebiyat", "İngilizce", "İngilizce", "Matematik", "Matematik", "Sağlık", "Rehberlik"]
+    },
+    {
+      "gun": "Çarşamba",
+      "dersler": ["Coğrafya", "Coğrafya", "Beden", "Beden", "Görsel / Müzik", "Görsel / Müzik", "Bilişim ve Teknoloji (Proje)", "Bilişim ve Teknoloji (Proje)"]
+    },
+    {
+      "gun": "Perşembe",
+      "dersler": ["Matematik", "Matematik", "İngilizce", "İngilizce", "Fizik", "Fizik", "Din", "Din"]
+    },
+    {
+      "gun": "Cuma",
+      "dersler": ["Matematik", "Matematik", "Tarih", "Tarih", "Almanca", "Almanca", "Edebiyat (Kitap Okuma Saati)", "Adabımuaşeret"]
+    }
+  ]
+}
