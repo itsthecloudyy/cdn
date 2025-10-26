@@ -1,0 +1,138 @@
+{
+  "poem_corpus": [
+    {
+      "content": "Gözlerinde kayboldum bir gece vakti\nYıldızlar sönerken ufkumda sen vardın\nKalbinin ritmiyle çarptı yüreğim\nSeninle başladı her şeyim",
+      "style": "lirik",
+      "theme": "aşk",
+      "meter": "11'li hece",
+      "rhyme": "abab",
+      "mood": "romantik"
+    },
+    {
+      "content": "Dağların ardında kalan bir destan\nKahramanlar yürüdü al kan içinde\nVatan için canlar feda olsun diye\nŞehitler yatar toprağın bağrında",
+      "style": "epik",
+      "theme": "kahramanlık",
+      "meter": "14'lü hece",
+      "rhyme": "aabb",
+      "mood": "gurur"
+    },
+    {
+      "content": "Çiçekler açmıştı kırlarda baharla\nKuşlar söylüyordu en güzel türküyü\nRüzgar okşuyordu yapraklarını\nDoğa uyanmıştı yeniden hayata",
+      "style": "pastoral",
+      "theme": "doğa",
+      "meter": "11'li hece",
+      "rhyme": "abcb",
+      "mood": "huzur"
+    },
+    {
+      "content": "Kentlerin içinde kaybolan ruhum\nIşıklar arasında yalnız bir gölge\nZaman akıyor hızlı bir nehir gibi\nDeğişimin izleri her yüzde",
+      "style": "modern",
+      "theme": "modern yaşam",
+      "meter": "serbest",
+      "rhyme": "serbest",
+      "mood": "melankoli"
+    },
+    {
+      "content": "Ateşler yanıyor kalbimin derdinde\nSeni düşündükçe artıyor hasretim\nGeceler boyunca yalnız beklerim\nBelki gelirsin diye kapımda",
+      "style": "lirik",
+      "theme": "hasret",
+      "meter": "11'li hece",
+      "rhyme": "aaba",
+      "mood": "hüzün"
+    },
+    {
+      "content": "Ormanın derinliklerinde saklı\nBir geyik ürker uzak seslerden\nYapraklar fısıldar eski hikayeler\nDoğanın dilidir bu sessiz şarkı",
+      "style": "pastoral",
+      "theme": "doğa",
+      "meter": "11'li hece",
+      "rhyme": "abab",
+      "mood": "sakin"
+    }
+  ],
+  "vocabulary": {
+    "lirik": ["aşk", "kalp", "göz", "yanmak", "hüzün", "sevda", "hasret", "ruh", "düş", "hayal", "yürek", "ateş", "gözyaşı", "umut", "özlem", "acı", "sevinç", "hatıra", "bakış", "dokunuş"],
+    "epik": ["kahraman", "savaş", "zafer", "vatan", "bayrak", "şehit", "destan", "mertlik", "yiğit", "onur", "cesaret", "meydan", "kılıç", "zafer", "tarih", "millet", "şan", "şeref", "galibiyet", "fedakar"],
+    "pastoral": ["doğa", "çiçek", "ağaç", "kuş", "rüzgar", "nehir", "dağ", "yaprak", "bahar", "yeşil", "orman", "güneş", "bulut", "yağmur", "toprak", "mevsim", "yaprak", "çiğ", "orman", "kır"],
+    "modern": ["kent", "yalnızlık", "zaman", "değişim", "teknoloji", "birey", "sistem", "kaos", "ışık", "gölge", "kent", "metro", "ekran", "hız", "yabancı", "kalabalık", "beton", "asansör", "trafik", "internet"]
+  },
+  "poem_structures": {
+    "lirik": {
+      "lines": 4,
+      "meter": "11'li hece",
+      "rhyme_schemes": ["abab", "aaba", "abcb", "aaaa"],
+      "mood": "duygusal",
+      "themes": ["aşk", "hasret", "hüzün", "sevinç", "hatıra", "nostalji", "tutku"]
+    },
+    "epik": {
+      "lines": 4,
+      "meter": "14'lü hece",
+      "rhyme_schemes": ["aabb", "abab", "aaaa", "abba"],
+      "mood": "güçlü",
+      "themes": ["kahramanlık", "zafer", "tarih", "vatan", "millet", "destan", "şehitlik"]
+    },
+    "pastoral": {
+      "lines": 4,
+      "meter": "11'li hece",
+      "rhyme_schemes": ["abcb", "aabb", "abab", "abba"],
+      "mood": "huzurlu",
+      "themes": ["doğa", "köy yaşamı", "deniz", "mevsimler", "hayvanlar", "huzur"]
+    },
+    "modern": {
+      "lines": 4,
+      "meter": "serbest",
+      "rhyme_schemes": ["serbest"],
+      "mood": "düşündürücü",
+      "themes": ["modern yaşam", "teknoloji", "yalnızlık", "kent yaşamı", "değişim", "birey"]
+    }
+  },
+  "line_templates": {
+    "lirik": [
+      "{keyword} doldurdu yüreğimi",
+      "Gözlerinde kayboldum {keyword}",
+      "{keyword} ile yanıyorum sensiz",
+      "Kalbimde {keyword} saklı",
+      "Rüyalarımda {keyword} görüyorum",
+      "{keyword} hasretiyle yanıyorum",
+      "Seninle {keyword} anlam kazandı",
+      "{keyword} aşkı sardı içimi",
+      "Her {keyword} seni hatırlatıyor",
+      "{keyword} ile doldu dünyam"
+    ],
+    "epik": [
+      "{keyword} destanı yazıldı",
+      "Kahramanlar {keyword} için savaştı",
+      "{keyword} şerefiyle yaşandı",
+      "Tarihe {keyword} işlendi",
+      "{keyword} zaferi kazanıldı",
+      "Milletim {keyword} ile gurur duydu",
+      "{keyword} şehitleri unutulmaz",
+      "{keyword} bayrağı dalgalandı",
+      "{keyword} meydanında kazanıldı",
+      "{keyword} onuruyla yaşandı"
+    ],
+    "pastoral": [
+      "{keyword} açtı baharla",
+      "Doğa {keyword} ile uyandı",
+      "{keyword} şarkısı söylendi",
+      "Rüzgar {keyword} getirdi",
+      "{keyword} kokusu sardı ormanı",
+      "Güneş {keyword} aydınlattı",
+      "{keyword} dans etti rüzgarla",
+      "{keyword} sesi doldu kırlara",
+      "{keyword} rengi boyadı doğayı",
+      "{keyword} huzur verdi ruhuma"
+    ],
+    "modern": [
+      "{keyword} kentte kayboldu",
+      "Zaman {keyword} değiştirdi",
+      "{keyword} ekranlarda parlıyor",
+      "Yalnızlık {keyword} büyüttü",
+      "{keyword} sistem içinde eridi",
+      "Teknoloji {keyword} yuttu",
+      "{keyword} kalabalıkta yok oldu",
+      "{keyword} hızına yetişemedim",
+      "{keyword} çağı sardı her yeri",
+      "{keyword} bireyi yalnızlaştırdı"
+    ]
+  }
+}
