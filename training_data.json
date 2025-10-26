@@ -47,42 +47,171 @@
       "meter": "11'li hece",
       "rhyme": "abab",
       "mood": "sakin"
+    },
+    {
+      "content": "Çelikten eller yükselir göğe doğru\nCam ve beton arasında kayıp hayatlar\nDijital ağlarda tutsak ruhlar\nModern çağın yalnız çocukları",
+      "style": "modern",
+      "theme": "teknoloji",
+      "meter": "serbest",
+      "rhyme": "serbest",
+      "mood": "eleştirel"
+    },
+    {
+      "content": "Al sancağım dalgalanır rüzgarda\nMehterin sesi yankılanır dağlarda\nTarih yazan ecdadın torunları\nYürürüz zaferden zafere doğru",
+      "style": "epik",
+      "theme": "vatan",
+      "meter": "14'lü hece",
+      "rhyme": "aabb",
+      "mood": "coşkulu"
+    },
+    {
+      "content": "Bir demet menekşe topladım senin için\nKokusunda kayboldum bahar akşamı\nEllerim titredi dokunurken sana\nAşkın rengi mor oldu yüreğimde",
+      "style": "lirik",
+      "theme": "aşk",
+      "meter": "11'li hece",
+      "rhyme": "abab",
+      "mood": "romantik"
+    },
+    {
+      "content": "Sessiz bir göl kenarında oturmuşum\nSuya vuran yansımaları seyrederim\nBalıklar oynaşır derin mavilikte\nHuzur bulurum doğanın kucağında",
+      "style": "pastoral",
+      "theme": "huzur",
+      "meter": "11'li hece",
+      "rhyme": "abcb",
+      "mood": "sakin"
+    },
+    {
+      "content": "Malazgirt'te doğan güneşle başlar\nKosova'da, Niğbolu'da devam eder\nİstanbul'da taçlanır şanlı tarihim\nÇanakkale'de yazılır destanımız",
+      "style": "epik",
+      "theme": "tarih",
+      "meter": "14'lü hece",
+      "rhyme": "aabb",
+      "mood": "gurur"
+    },
+    {
+      "content": "Akıllı telefonlar, sosyal ağlar\nSanal dünyada gerçek yüzler kaybolur\nBeğeniler, takipçiler, dijital benlik\nÖzümüzü unuttuk bu kalabalıkta",
+      "style": "modern",
+      "theme": "sosyal medya",
+      "meter": "serbest",
+      "rhyme": "serbest",
+      "mood": "eleştirel"
+    },
+    {
+      "content": "Gecenin koynunda ağlayan yıldızlar\nSensizliğin acısını bilir ancak\nSabah olur ama güneş doğmaz içime\nSen gideli her şey anlamını yitirdi",
+      "style": "lirik",
+      "theme": "ayrılık",
+      "meter": "11'li hece",
+      "rhyme": "abab",
+      "mood": "hüzün"
+    },
+    {
+      "content": "Kır çiçekleriyle bezeli yamaçlar\nArı vızıltısı, kelebek dansı\nTaze çimen kokusu sarar her yanı\nDoğa ana kucak açar misafire",
+      "style": "pastoral",
+      "theme": "bahar",
+      "meter": "11'li hece",
+      "rhyme": "aabb",
+      "mood": "neşeli"
+    },
+    {
+      "content": "Sancaklar açılır, borular öter\nAt kişner, kılıç şakırdar meydanda\nAllah Allah nidaları göklere çıkar\nYiğitler can verir vatan uğruna",
+      "style": "epik",
+      "theme": "savaş",
+      "meter": "14'lü hece",
+      "rhyme": "abab",
+      "mood": "coşkulu"
     }
   ],
   "vocabulary": {
-    "lirik": ["aşk", "kalp", "göz", "yanmak", "hüzün", "sevda", "hasret", "ruh", "düş", "hayal", "yürek", "ateş", "gözyaşı", "umut", "özlem", "acı", "sevinç", "hatıra", "bakış", "dokunuş"],
-    "epik": ["kahraman", "savaş", "zafer", "vatan", "bayrak", "şehit", "destan", "mertlik", "yiğit", "onur", "cesaret", "meydan", "kılıç", "zafer", "tarih", "millet", "şan", "şeref", "galibiyet", "fedakar"],
-    "pastoral": ["doğa", "çiçek", "ağaç", "kuş", "rüzgar", "nehir", "dağ", "yaprak", "bahar", "yeşil", "orman", "güneş", "bulut", "yağmur", "toprak", "mevsim", "yaprak", "çiğ", "orman", "kır"],
-    "modern": ["kent", "yalnızlık", "zaman", "değişim", "teknoloji", "birey", "sistem", "kaos", "ışık", "gölge", "kent", "metro", "ekran", "hız", "yabancı", "kalabalık", "beton", "asansör", "trafik", "internet"]
+    "lirik": [
+      "aşk", "kalp", "göz", "yanmak", "hüzün", "sevda", "hasret", "ruh", "düş", "hayal", 
+      "yürek", "ateş", "gözyaşı", "umut", "özlem", "acı", "sevinç", "hatıra", "bakış", 
+      "dokunuş", "nefes", "ten", "dudak", "sarıl", "öpücük", "tutku", "arzulamak", "özlemek", 
+      "ağlamak", "gülmek", "hissetmek", "sevmek", "bağlanmak", "vazgeçmek", "kavuşmak", 
+      "ayrılmak", "beklemek", "unutmak", "hatırlamak", "değer", "anlam", "duygu", "hissiyat",
+      "melal", "feryat", "ah", "vah", "eyvah", "aman", "yeter", "yet", "aman", "ey"
+    ],
+    "epik": [
+      "kahraman", "savaş", "zafer", "vatan", "bayrak", "şehit", "destan", "mertlik", "yiğit", 
+      "onur", "cesaret", "meydan", "kılıç", "tarih", "millet", "şan", "şeref", "galibiyet", 
+      "fedakar", "alperen", "gazi", "ordu", "asker", "komutan", "cenk", "meydan", "ok", "yay",
+      "kalkan", "zırh", "at", "sancak", "tuğ", "boru", "davul", "mehter", "nidalar", "Allah",
+      "vuruşmak", "savunmak", "saldırmak", "korunmak", "kazanmak", "kaybetmek", "şehit olmak",
+      "gazi olmak", "anmak", "yad etmek", "unutmak", "hatırlamak", "gurur", "iftihar"
+    ],
+    "pastoral": [
+      "doğa", "çiçek", "ağaç", "kuş", "rüzgar", "nehir", "dağ", "yaprak", "bahar", "yeşil", 
+      "orman", "güneş", "bulut", "yağmur", "toprak", "mevsim", "çiğ", "kır", "ova", "tepe",
+      "vadi", "göl", "deniz", "dalga", "kum", "taş", "kaya", "çakıl", "kum", "çamur",
+      "orman", "koru", "bahçe", "bostan", "tarla", "harman", "hasat", "ekin", "biçin",
+      "hayvan", "kuş", "böcek", "arı", "kelebek", "sinek", "sürü", "koyun", "keçi", "inek",
+      "at", "eşek", "katır", "köpek", "kurt", "tilki", "ayı", "geyik", "karaca", "tavşan"
+    ],
+    "modern": [
+      "kent", "yalnızlık", "zaman", "değişim", "teknoloji", "birey", "sistem", "kaos", "ışık", 
+      "gölge", "metro", "ekran", "hız", "yabancı", "kalabalık", "beton", "asansör", "trafik", 
+      "internet", "dijital", "sanal", "gerçek", "sosyal", "medya", "akıllı", "telefon", "bilgisayar",
+      "tablet", "uygulama", "yazılım", "donanım", "veri", "bilgi", "iletişim", "ağ", "web",
+      "online", "offline", "dijital", "analog", "modern", "postmodern", "küresel", "yerel",
+      "entegre", "izole", "komünikasyon", "enformasyon", "teknoloji", "inovasyon", "gelişim"
+    ],
+    "felsefi": [
+      "varoluş", "anlam", "hiçlik", "ölüm", "yaşam", "zaman", "mekan", "evren", "dünya",
+      "insan", "benlik", "bilinç", "akıl", "düşünce", "fikir", "ide", "ideal", "gerçek",
+      "hakikat", "yanılsama", "illüzyon", "algı", "duyu", "deneyim", "tecrübe", "bilgi",
+      "bilgelik", "felsefe", "düşünür", "filozof", "sorgulamak", "araştırmak", "anlamak",
+      "kavramak", "idrak", "feraset", "basiret", "irfan", "hikmet", "marifet", "ilim"
+    ],
+    "tasavvuf": [
+      "aşk", "ilahi", "hak", "hakk", "allah", "peygamber", "nebi", "resul", "vahiy", "kuran",
+      "iman", "islam", "ihsan", "takva", "zikir", "fikir", "şükür", "sabır", "tevekkül",
+      "rıza", "muhabbet", "marifet", "irfan", "hakikat", "tarikat", "şeriat", "marifet",
+      "fenafillah", "bekabillah", "vuslat", "visal", "ayrılık", "hicran", "hasret", "özlem",
+      "derviş", "mürşit", "mürit", "tekke", "zaviye", "dergah", "sema", "devran", "ayin",
+      "nefes", "ilahi", "kaside", "naat", "mevlid", "mirac", "berat", "kadir"
+    ]
   },
   "poem_structures": {
     "lirik": {
       "lines": 4,
       "meter": "11'li hece",
-      "rhyme_schemes": ["abab", "aaba", "abcb", "aaaa"],
+      "rhyme_schemes": ["abab", "aaba", "abcb", "aaaa", "abba"],
       "mood": "duygusal",
-      "themes": ["aşk", "hasret", "hüzün", "sevinç", "hatıra", "nostalji", "tutku"]
+      "themes": ["aşk", "hasret", "hüzün", "sevinç", "hatıra", "nostalji", "tutku", "ayrılık", "kavuşma", "özlem"]
     },
     "epik": {
       "lines": 4,
       "meter": "14'lü hece",
-      "rhyme_schemes": ["aabb", "abab", "aaaa", "abba"],
+      "rhyme_schemes": ["aabb", "abab", "aaaa", "abba", "abcb"],
       "mood": "güçlü",
-      "themes": ["kahramanlık", "zafer", "tarih", "vatan", "millet", "destan", "şehitlik"]
+      "themes": ["kahramanlık", "zafer", "tarih", "vatan", "millet", "destan", "şehitlik", "savaş", "mertlik", "onur"]
     },
     "pastoral": {
       "lines": 4,
       "meter": "11'li hece",
-      "rhyme_schemes": ["abcb", "aabb", "abab", "abba"],
+      "rhyme_schemes": ["abcb", "aabb", "abab", "abba", "aaaa"],
       "mood": "huzurlu",
-      "themes": ["doğa", "köy yaşamı", "deniz", "mevsimler", "hayvanlar", "huzur"]
+      "themes": ["doğa", "köy yaşamı", "deniz", "mevsimler", "hayvanlar", "huzur", "bahar", "yaz", "sonbahar", "kış"]
     },
     "modern": {
       "lines": 4,
       "meter": "serbest",
       "rhyme_schemes": ["serbest"],
       "mood": "düşündürücü",
-      "themes": ["modern yaşam", "teknoloji", "yalnızlık", "kent yaşamı", "değişim", "birey"]
+      "themes": ["modern yaşam", "teknoloji", "yalnızlık", "kent yaşamı", "değişim", "birey", "sosyal medya", "dijitalleşme"]
+    },
+    "felsefi": {
+      "lines": 4,
+      "meter": "serbest",
+      "rhyme_schemes": ["serbest", "abab", "aabb"],
+      "mood": "derin",
+      "themes": ["varoluş", "anlam", "ölüm", "yaşam", "zaman", "evren", "bilinç", "gerçek"]
+    },
+    "tasavvuf": {
+      "lines": 4,
+      "meter": "11'li hece",
+      "rhyme_schemes": ["aaaa", "abab", "aabb", "abba"],
+      "mood": "mistifik",
+      "themes": ["ilahi aşk", "vuslat", "hakikat", "marifet", "zikir", "tevhid", "fenafillah"]
     }
   },
   "line_templates": {
@@ -96,7 +225,17 @@
       "Seninle {keyword} anlam kazandı",
       "{keyword} aşkı sardı içimi",
       "Her {keyword} seni hatırlatıyor",
-      "{keyword} ile doldu dünyam"
+      "{keyword} ile doldu dünyam",
+      "{keyword} sensiz soğuk",
+      "Sen {keyword} oldun hayatımda",
+      "{keyword} ayrılığın acısı",
+      "Geceler {keyword} ile uzun",
+      "{keyword} bakışların sıcak",
+      "{keyword} dokunuşun unutulmaz",
+      "{keyword} sevgim sonsuz",
+      "{keyword} bekleyişim bitmez",
+      "{keyword} özlemim derin",
+      "{keyword} aşkım ebedi"
     ],
     "epik": [
       "{keyword} destanı yazıldı",
@@ -108,7 +247,17 @@
       "{keyword} şehitleri unutulmaz",
       "{keyword} bayrağı dalgalandı",
       "{keyword} meydanında kazanıldı",
-      "{keyword} onuruyla yaşandı"
+      "{keyword} onuruyla yaşandı",
+      "{keyword} yiğitleri andık",
+      "{keyword} sancağı yükseldi",
+      "{keyword} boruları çalındı",
+      "{keyword} kılıçları çekildi",
+      "{keyword} atları kişnedi",
+      "{keyword} nidaları yükseldi",
+      "{keyword} şehit kanı aktı",
+      "{keyword} gazileri kutlu",
+      "{keyword} ecdadı yad ettik",
+      "{keyword} tarihi şanlı"
     ],
     "pastoral": [
       "{keyword} açtı baharla",
@@ -120,7 +269,17 @@
       "{keyword} dans etti rüzgarla",
       "{keyword} sesi doldu kırlara",
       "{keyword} rengi boyadı doğayı",
-      "{keyword} huzur verdi ruhuma"
+      "{keyword} huzur verdi ruhuma",
+      "{keyword} tomurcuklandı dallarda",
+      "{keyword} çiğ taneleri parlıyor",
+      "{keyword} yaprakları hışırdıyor",
+      "{keyword} kuşları ötüyor",
+      "{keyword} suları çağıldıyor",
+      "{keyword} bulutları geçiyor",
+      "{keyword} çiçekleri kokuyor",
+      "{keyword} meyveleri olgun",
+      "{keyword} hayvanları oynuyor",
+      "{keyword} doğası canlı"
     ],
     "modern": [
       "{keyword} kentte kayboldu",
@@ -132,7 +291,89 @@
       "{keyword} kalabalıkta yok oldu",
       "{keyword} hızına yetişemedim",
       "{keyword} çağı sardı her yeri",
-      "{keyword} bireyi yalnızlaştırdı"
+      "{keyword} bireyi yalnızlaştırdı",
+      "{keyword} dijital dünyada",
+      "{keyword} sosyal ağlarda kayıp",
+      "{keyword} modern yaşamda tükenmiş",
+      "{keyword} beton yığınları arasında",
+      "{keyword} trafikte sıkışmış",
+      "{keyword} asansörlerde hapsolmuş",
+      "{keyword} internet bağımlısı",
+      "{keyword} akıllı telefon tutsağı",
+      "{keyword} sanal gerçeklikte",
+      "{keyword} dijital kimlikle"
+    ],
+    "felsefi": [
+      "{keyword} sorguluyorum varoluşu",
+      "Anlam {keyword} arıyorum hayatta",
+      "{keyword} düşünceler sarıyor zihnimi",
+      "Zaman {keyword} akıp gidiyor",
+      "{keyword} gerçeği arıyorum",
+      "Evren {keyword} sırlarını saklıyor",
+      "{keyword} bilinç derinliklerinde",
+      "Ölüm {keyword} anlamı değiştiriyor",
+      "{keyword} varoluş sancısı",
+      "{keyword} hakikat arayışı",
+      "{keyword} felsefi sorgulama",
+      "{keyword} metafizik derinlik",
+      "{keyword} ontolojik sorular",
+      "{keyword} epistemolojik kuşkular",
+      "{keyword} etik ikilemler",
+      "{keyword} estetik değerler",
+      "{keyword} insan doğası",
+      "{keyword} evrensel hakikat",
+      "{keyword} mutlak gerçeklik",
+      "{keyword} sonsuzluk düşüncesi"
+    ],
+    "tasavvuf": [
+      "{keyword} aşkıyla yanıyorum",
+      "Hak {keyword} tecelli ediyor",
+      "{keyword} zikriyle huzur buldum",
+      "Marifet {keyword} ile geldi",
+      "{keyword} vuslatı özledim",
+      "Fenafillah {keyword} eriştim",
+      "{keyword} muhabbeti sardı",
+      "İrfan {keyword} ile doldu",
+      "{keyword} hakikati aşikar",
+      "Tevhid {keyword} anlam kazandı",
+      "{keyword} ilahi aşk denizi",
+      "{keyword} tasavvuf yolunda",
+      "{keyword} derviş gönlünde",
+      "{keyword} mürşit nefesinde",
+      "{keyword} sema ayininde",
+      "{keyword} zikir halkasında",
+      "{keyword} tevhid nurunda",
+      "{keyword} vahdet şuurunda",
+      "{keyword} bekabillah makamı",
+      "{keyword} insan-ı kamil"
     ]
+  },
+  "rhyme_patterns": {
+    "abab": ["-ak", "-ek", "-ık", "-ok", "-uk", "-aç", "-eç", "-iç", "-uç", "-an", "-en", "-in", "-un"],
+    "aabb": ["-ar", "-er", "-ır", "-ur", "-al", "-el", "-ıl", "-ul", "-am", "-em", "-im", "-um"],
+    "abcb": ["-at", "-et", "-it", "-ut", "-ay", "-ey", "-iy", "-uy", "-ap", "-ep", "-ip", "-up"],
+    "aaaa": ["-ak", "-ek", "-ık", "-ok", "-uk", "-aş", "-eş", "-iş", "-uş"],
+    "abba": ["-ar", "-er", "-ır", "-ur", "-an", "-en", "-in", "-un", "-ak", "-ek", "-ık", "-uk"]
+  },
+  "meter_patterns": {
+    "11'li hece": [
+      "5+6", "6+5", "4+4+3", "3+4+4", "4+3+4", "3+5+3", "5+3+3"
+    ],
+    "14'lü hece": [
+      "7+7", "6+8", "8+6", "5+4+5", "4+5+5", "5+5+4"
+    ],
+    "serbest": [
+      "serbest ölçü", "düz yazı", "modern tarz"
+    ]
+  },
+  "mood_keywords": {
+    "romantik": ["aşk", "sevgi", "tutku", "bağlılık", "sadakat", "sevda", "muhabbet"],
+    "hüzün": ["ayrılık", "hasret", "özlem", "acı", "gözyaşı", "yanık", "firak"],
+    "neşeli": ["sevinç", "mutluluk", "coşku", "heyecan", "neşe", "keyif", "şenlik"],
+    "gurur": ["onur", "şeref", "iftihar", "övünç", "kıvanç", "mutluluk"],
+    "coşkulu": ["heyecan", "coşku", "taşkınlık", "şevk", "heves", "azim"],
+    "sakin": ["huzur", "sükunet", "dinginlik", "rahatlık", "sessizlik", "durgunluk"],
+    "melankoli": ["kasvet", "hüzün", "karamsarlık", "umutsuzluk", "keder", "elem"],
+    "eleştirel": ["sorgulama", "eleştiri", "protesto", "itiraz", "muhalefet", "tepki"]
   }
 }
